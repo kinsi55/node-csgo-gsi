@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/shaunidiot/node-csgo-gsi#readme",
   "dependencies": {
-    "body-parser": "^1.14.1",
+    "body-parser": "1.18.2",
     "express": "^4.13.3",
     "http": "0.0.0"
   }
